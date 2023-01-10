@@ -1,5 +1,7 @@
 # musicplayerui
 
+![Screenshot_20230110-110626](https://user-images.githubusercontent.com/118268749/211466930-62980ce6-9134-4294-bd73-79d55681b670.jpg)
+
 A new Flutter project.
 
 ## Getting Started
